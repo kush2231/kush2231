@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kush2231" alt="kush2231" /> </p>
 <h1 align="center">Hi! 👋</h1>
 <br>
-<p align="center"><b><font size="7">I'm Kushagra Gupta </font></b></p>
+<p align="center"><b><font size="30">I'm Kushagra Gupta </font></b></p>
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&centre=true&size=30&color=%23111791&lines=An+Engineering+Student;Studying+At+IIT(BHU)+Varanasi;A+Front-End+Web+Developer;Currently+Learning+CP;Love+Traveling+and+Exploring)](https://git.io/typing-svg)
@@ -38,3 +38,21 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <hr>
 <br>
+<h2> Github stats!</h2>
+<br>
+<div align="center">
+  
+  [![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=kush2231&show_icons=true&theme=merko)](https://github.com/kush2231/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kush2231&layout=compact&theme=merko)](https://github.com/kush2231/github-readme-stats)
+  
+  
+  </p>
+ <br />
+  
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kush2231&theme=github-light&hide_border=true&area=true)
+
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kush2231&theme=gruvbox" alt="kush2231"  /></p>
+</div>
+<br>
+<hr>
+<br>
+
