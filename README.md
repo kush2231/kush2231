@@ -8,7 +8,7 @@
   
   </div>
 
-<p align="center"><i>I am a Front End Web Developer who is very enthusiastic about learning and exploring new technologies. I'm always looking for innovative solutions that would be useful for normal people or developer communities. Pursing a Integrated Dual degree in Metallurgical Engineering from Indian Institute of Technology (Banaras Hindu University) Varanasi. I believe to write a program that can be understood and improved, not a program that makes circuits work only.</i></p>
+<p align="center"><i>I am a Front End Web Developer who is very enthusiastic about learning and exploring new technologies. I'm always looking for innovative solutions that would be useful for normal people or developer communities. Pursing a undergraduated degree in civil  Engineering from Indian Institute of Technology (Banaras Hindu University) Varanasi. I believe to write a program that can be understood and improved, not a program that makes circuits work only.</i></p>
 <br>
 <br>
 
