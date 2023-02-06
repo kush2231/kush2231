@@ -4,11 +4,11 @@
 <p align="center"><b><font size="30">I'm Kushagra Gupta </font></b></p>
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&centre=true&size=30&color=%23111791&lines=An+Engineering+Student;Studying+At+IIT(BHU)+Varanasi;A+Front-End+Web+Developer;Currently+Learning+CP;Love+Traveling+and+Exploring)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&centre=true&size=30&color=%23111791&lines=An+Engineering+Student;Studying+At+IIT(BHU)+Varanasi;A+MERN+stack +Web+Developer;Currently+Learning+CP;Love+Traveling+ book _reading + and+Exploring )](https://git.io/typing-svg)
   
   </div>
 
-<p align="center"><i>I am a Full stack in MERN stack Web Developer who is very enthusiastic about learning and exploring new technologies. I'm always looking for innovative solutions that would be useful for normal people or developer communities. Pursing a undergraduated degree in civil  Engineering from Indian Institute of Technology (Banaras Hindu University) Varanasi. I believe to write a program that can be understood and improved, not a program that makes circuits work only.</i></p>
+<p align="center"><i>I am a MERN stack Web Developer who is very enthusiastic about learning and exploring new technologies. I'm always looking for innovative solutions that would be useful for normal people or developer communities. Pursing a undergraduated degree in civil  Engineering from Indian Institute of Technology (Banaras Hindu University) Varanasi. I believe to write a program that can be understood and improved, not a program that makes circuits work only.</i></p>
 <br>
 <br>
 
