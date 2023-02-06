@@ -4,8 +4,8 @@
 <p align="center"><b><font size="30">I'm Kushagra Gupta </font></b></p>
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&centre=true&size=30&color=%23111791&lines=An+Engineering+Student;Studying+At+IIT(BHU)+Varanasi;A+MERN+stack
-  +Web+Developer;Currently+Learning+CP;Love+Traveling+book+reading+and+Exploring)](https://git.io/typing-svg)
+<!--   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&centre=true&size=30&color=%23111791&lines=An+Engineering+Student;Studying+At+IIT(BHU)+Varanasi;A+MERN+stack
+  +Web+Developer;Currently+Learning+CP;Love+Traveling+book+reading+and+Exploring)](https://git.io/typing-svg) -->
   
   </div>
 
