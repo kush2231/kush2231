@@ -64,7 +64,17 @@ You can click the Preview link to take a look at your changes..
   <a title="kushagra885346@gmail.com" href="mailto:kushagra885346@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
 
 </p>
+<div>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=kush2231&show_icons=true&theme=gradient" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush2231&layout=compact" />
+</div>
 <br />
+<img src="https://activity-graph.herokuapp.com/graph?username=kush2231&theme=minimal" alt="activitygraph" /> 
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kush2231" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=kush2231" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kush2231&theme=vue" alt="summarycard"/> </p>
+<hr />
 <hr />
 <h3 align="center"> 
   Visitor count <br>
