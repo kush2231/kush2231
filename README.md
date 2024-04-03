@@ -52,6 +52,7 @@ You can click the Preview link to take a look at your changes..
   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  <img src="https://img.shields.io/badge/BitBucket-100000?style=for-the-badge&logo=BitBucket&logoColor=white" alt="BitBucket"/>
 
 </p>
 
@@ -66,7 +67,7 @@ You can click the Preview link to take a look at your changes..
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush2231&layout=compact" />
 </div>
 <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=kush2231&theme=minimal" alt="activitygraph" /> 
+<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/42ef9eee568769795fe6fe7d8d1b1259cda8d773/asset/logo.svg" alt="activitygraph" /> 
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kush2231" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=kush2231" alt=""/> </p>
