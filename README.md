@@ -67,7 +67,8 @@ You can click the Preview link to take a look at your changes..
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush2231&layout=compact" />
 </div>
 <br />
-<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/42ef9eee568769795fe6fe7d8d1b1259cda8d773/asset/logo.svg" alt="activitygraph" /> 
+<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/42ef9eee568769795fe6fe7d8d1b1259cda8d773/asset/logo.svg" alt="activitygraph" height="50" width="50">
+ 
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kush2231" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=kush2231" alt=""/> </p>
